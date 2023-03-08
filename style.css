@@ -1,0 +1,22 @@
+
+.fruit {
+    color:red;
+    background-color:yellow;
+    height: 200px;
+    width:  200px;
+    border: 1px solid black;
+}
+.vegetable {
+    color:green;
+    background-color:yellow;
+    height: 200px;
+    width:  200px;
+    border: 1px solid black;
+}
+h4 {
+    color:blueviolet
+}
+
+#one {
+    border: 1px dotted red;
+}
